@@ -81,6 +81,6 @@ endmodule
 
 ![output06 digital](https://github.com/user-attachments/assets/257b2bb0-cd9b-45c8-81d6-0514e33f4a5c)
 
-**RESULTS**
+**RESULT**
 
  SR flipflop using verilog and validating their functionality using their functional tables is verified
